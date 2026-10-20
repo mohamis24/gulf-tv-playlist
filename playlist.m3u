@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ekhbariya.sa" tvg-name="Al Ekhbariya" group-title="Saudi Arabia",Al Ekhbariya HD
-http://al-ekhbariya-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlEkhbariya)/index.m3u8
-#EXTINF:-1 tvg-id="Saudia.sa" tvg-name="Saudi TV" group-title="Saudi Arabia",Saudi TV HD
-http://al-saudia-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlSaudia)/index.m3u8
-#EXTINF:-1 tvg-id="Quran.sa" tvg-name="Al Quran" group-title="Saudi Arabia",Al Quran HD
-http://al-quran-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlQuran)/index.m3u8
-#EXTINF:-1 tvg-id="Sunnah.sa" tvg-name="Al Sunnah" group-title="Saudi Arabia",Al Sunnah HD
-http://al-sunnah-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlSunnah)/index.m3u8
+#EXTINF:-1 tvg-name="Big Buck Bunny" group-title="Movies",Big Buck Bunny (Movie)
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:-1 tvg-name="Elephant Dream" group-title="Movies",Elephant Dream (Movie)
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+#EXTINF:-1 tvg-name="Sintel" group-title="Movies",Sintel Trailer (Movie)
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+#EXTINF:-1 tvg-name="Tears of Steel" group-title="Movies",Tears of Steel (Movie)
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
