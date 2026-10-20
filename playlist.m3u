@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1, Al Ekhbariya
-https://al-ekhbariya-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlEkhbariya)/index.m3u8
-#EXTINF:-1, Saudi TV
-https://al-saudia-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlSaudia)/index.m3u8
-#EXTINF:-1, Al Quran
-https://al-quran-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlQuran)/index.m3u8
-#EXTINF:-1, Al Sunnah
-https://al-sunnah-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlSunnah)/index.m3u8
+#EXTINF:-1 tvg-id="Ekhbariya.sa" tvg-name="Al Ekhbariya" group-title="Saudi Arabia",Al Ekhbariya HD
+http://al-ekhbariya-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlEkhbariya)/index.m3u8
+#EXTINF:-1 tvg-id="Saudia.sa" tvg-name="Saudi TV" group-title="Saudi Arabia",Saudi TV HD
+http://al-saudia-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlSaudia)/index.m3u8
+#EXTINF:-1 tvg-id="Quran.sa" tvg-name="Al Quran" group-title="Saudi Arabia",Al Quran HD
+http://al-quran-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlQuran)/index.m3u8
+#EXTINF:-1 tvg-id="Sunnah.sa" tvg-name="Al Sunnah" group-title="Saudi Arabia",Al Sunnah HD
+http://al-sunnah-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlSunnah)/index.m3u8
