@@ -1,25 +1,9 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Al_Ekhbariya_Logo.png" group-title="السعودية",القناة الإخبارية
+#EXTINF:-1, Al Ekhbariya
 https://al-ekhbariya-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlEkhbariya)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Saudi_TV1_Logo.png" group-title="السعودية",قناة السعودية
+#EXTINF:-1, Saudi TV
 https://al-saudia-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlSaudia)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Al_Sunnah_Al_Nabawiyah_TV_logo.png" group-title="السعودية",قناة السنة النبوية
-https://al-sunnah-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlSunnah)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Al_Quran_Al_Kareem_TV_logo.png" group-title="السعودية",قناة القرآن الكريم
+#EXTINF:-1, Al Quran
 https://al-quran-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlQuran)/index.m3u8
-
-#EXTINF:-1 group-title="الإمارات",قناة دبي
-https://dmi.akamaized.net/hls/live/2012012/dubaitv/index.m3u8
-
-#EXTINF:-1 group-title="الإمارات",قناة دبي ون
-https://dmi.akamaized.net/hls/live/2012014/dubaione/index.m3u8
-
-#EXTINF:-1 group-title="الإمارات",قناة أبوظبي
-https://adtv-aloula.akamaized.net/hls/live/2034307/aloula/index.m3u8
-
-#EXTINF:-1 group-title="الكويت",تلفزيون الكويت - القناة الأولى
-https://media.gov.kw/live/ktv1/index.m3u8
+#EXTINF:-1, Al Sunnah
+https://al-sunnah-ksa-ak.akamaized.net/Content/HLS/Live/Channel(AlSunnah)/index.m3u8
